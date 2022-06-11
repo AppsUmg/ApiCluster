@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jR2tQAi3miZkl0XFQO/mNtvGjulnJnzYHjREl7DwjSA=",
+  "Source": "Api_FailCluster",
+  "BasePath": "_content/Api_FailCluster",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
